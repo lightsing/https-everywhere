@@ -1,4 +1,0 @@
-[submodule "translations"]
-	path = translations
-	url = https://git.torproject.org/translation.git
-	branch = https_everywhere
